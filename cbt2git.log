@@ -1,0 +1,5 @@
+2023-04-02 22:22:56.482706 - Initialized conversion of CBT176
+2023-04-02 22:22:56.502773 - Received CBT.V504.FILE176.PDS from FILE176.XMI 
+2023-04-02 22:22:56.505456 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE176.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:22:56.506661 - Found @FILE176.txt (text/plain) in CBT.V504.FILE176.PDS, moved to PDS/@FILE176
+2023-04-02 22:22:56.507991 - Found DESCRIPT.txt (text/plain) in CBT.V504.FILE176.PDS, moved to PDS/DESCRIPT
